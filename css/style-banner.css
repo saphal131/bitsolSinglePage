@@ -1,0 +1,76 @@
+
+.banner {
+	width: 	1440px;
+	height: 94px;
+	background-color: #E5EAF0;
+	float: right;
+	position: relative;
+}
+.Bitsol_logo {
+	position: absolute;
+	left: 98px;
+	top: 15px;
+}
+.Products {
+	position: absolute;
+	left: 320px;
+	top: 44px;
+	font-size: 14px;
+	color: #E4780B;
+}
+.Industries {
+	position: absolute;
+	left: 520px;
+	top: 44px;
+	font-size: 14px;
+	color: #6F6F6F;
+}
+.Partners{
+	position: absolute;
+	left: 639px;
+	top: 44px;
+	font-size: 14px;
+	color: #6F6F6F;
+}
+.Clients {
+	position: absolute;
+	left: 738px;
+	top: 44px;
+	font-size: 14px;
+	color: #6F6F6F;
+}
+.Contact-us {
+	position: absolute;
+	left: 823px;
+	top: 44px;
+	font-size: 14px;
+	color: #6F6F6F;
+}
+.Programs {
+	position: absolute;
+	left: 942px;
+	top: 44px;
+	font-size: 14px;
+	color: #6F6F6F;
+}
+.About-us {
+	position: absolute;
+	left: 1059px;
+	top: 44px;
+	font-size: 14px;
+	color: #6F6F6F;
+}
+.Login {
+	position: absolute;
+	left: 1179px;
+	margin-top: 33px;
+	margin-bottom: 19px;
+	width: 70px;
+	height: 40px;
+	display: block;	
+	border: 1px solid #E4780B;
+	color: black;
+}
+.total {
+	width: 1440px;
+}

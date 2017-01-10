@@ -1,0 +1,146 @@
+.download {
+	width: 1440px;
+	height: 930px;
+	background-color: #F5F5F5;
+}
+.brochure {
+	color: #E4780B;
+	text-align: center;
+	font-size: 26px;
+	margin: 25px; 
+	left: 528px;
+	top: 3919px;
+	position: absolute;
+}
+.brochure-content{
+	text-align: center;
+	position: absolute;
+	top: 3985px;
+	left: 252px;
+	font-family: monospace;
+	font-size: 17px;
+	font-weight: bold;
+	padding: 20px;
+	line-height: 2;
+	width: 932px;
+	height: 57px;
+	display: inline;
+}
+#brochure {
+	background-color: #E4780B;
+	position: absolute;
+	text-align: center;
+	left: 628px;
+	top: 4104px;
+	width: 184px;
+	height: 45px;
+}
+#blog-1 {
+	left: 121px;
+	top: 4208px;
+	width: 372px;
+	height: 250px;
+	position: absolute;
+	filter: sepia(100%) brightness(110%);
+}
+#blog-2 {
+	left: 532px;
+	top: 4208px;
+	width: 372px;
+	height: 250px;
+	position: absolute;
+	
+}
+#blog-3 {
+	left: 943px;
+	top: 4208px;
+	width: 372px;
+	height: 250px;
+	position: absolute;
+}
+.blog-1-header {
+	left: 121px;
+	width: 367px;
+	height: 245px;
+	top: 4499px;
+	position: absolute;
+	color: #E4780B;
+	font-size: 20px;
+
+}
+.breadcrumb {
+	top: 4578px;
+	color: blue;
+	left: 108px;
+	position: absolute;
+	font-size: 16px;
+	font-style: italic;
+	font-family: monospace;
+}
+.blog-1-content {
+	top: 4618px;
+	font-family: monospace;	
+	left: 121px;
+	position: absolute;
+	width: 367px;
+	height: 89px;
+	font-size: 16px;
+	font-weight: bold;
+}
+.blog-2-header {
+	left: 532px;
+	width: 367px;
+	height: 245px;
+	top: 4499px;
+	position: absolute;
+	font-size: 20px;
+
+}
+#breadcrumb-2 {
+	top: 4578px;
+	color: black;
+	left: 519px;
+	position: absolute;
+	font-size: 16px;
+	font-style: italic;
+	font-family: monospace;
+}
+.blog-2-content {
+	top: 4618px;
+	font-family: monospace;	
+	left: 532px;
+	position: absolute;
+	width: 367px;
+	height: 89px;
+	font-size: 16px;
+	font-weight: bold;
+}
+.blog-3-header {
+	left: 943px;
+	width: 367px;
+	height: 245px;
+	top: 4499px;
+	position: absolute;
+	font-size: 20px;
+
+}
+#breadcrumb-3 {
+	top: 4578px;
+	color: blue;
+	left: 930px;
+	position: absolute;
+	font-size: 16px;
+	font-style: italic;
+	font-family: monospace;
+}
+.blog-3-content {
+	top: 4618px;
+	font-family: monospace;	
+	left: 943px;
+	position: absolute;
+	width: 367px;
+	height: 89px;
+	font-size: 16px;
+	font-weight: bold;
+}
+

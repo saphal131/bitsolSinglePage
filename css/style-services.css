@@ -1,0 +1,167 @@
+.our-services{
+	width: 1440px;
+	height: 963px;
+	background-color: #F5F5F5;
+}
+.Services {
+	color: #E4780B;
+	text-align: center;
+	top: 2069px;
+	font-size: 26px;
+	margin: 25px; 
+	left: 604px;
+	position: absolute;
+}
+.Services1 {
+	width: 581px;
+	height: 252px;
+	left:120px;
+	top: 2191px;
+	background-color: white;
+	position: absolute;
+}
+.reference {
+	width: 83px;
+	height: 83px;
+	top: 54px;
+	left: 22px;
+	position: absolute;
+
+}
+.library {
+	left: 128px;
+	top: 55px;
+	color: #E4780B;
+	font-size: 20px;
+	font-family: monospace;
+	text-align: center;
+	position: absolute;
+}
+.library-content {
+	border: 0px solid black; 
+	width: 344px;
+	height: 94px;
+	position: absolute;
+	font-family: monospace;
+	font-weight: bold;
+	line-height: 2;
+	top: 102px;
+	left: 127px;
+}
+.Services2 {
+	width: 581px;
+	height: 252px;
+	left: 83px;	
+	top: 2191px; 
+	position: absolute;
+}	
+.icon-2 {
+	left: 667px;
+	position: absolute;
+	width: 81px;
+	height: 81px;
+	top: 54px;
+}
+.tax {
+	display: block;
+	width: 180px;
+	left: 771px;
+	top: 55px;
+	color: #E4780B;
+	font-size: 20px;
+	font-family: monospace;
+	text-align: center;
+	position: absolute;
+}
+.tax-content {
+	border: 0px solid black; 
+	width: 344px;
+	height: 94px;
+	position: absolute;
+	font-family: monospace;
+	line-height: 2;
+	top: 102px;
+	left: 770px;
+	font-weight: bold;
+}
+.Services3 {
+	width: 581px;
+	height: 252px;
+	left: 83px;	
+	top: 2191px; 
+	position: absolute;
+}
+.icon-3 {
+	left: 63px;
+	position: absolute;
+	width: 94px;
+	height: 94px;
+	top: 301px;
+}
+.business {
+	display: block;
+	width: 399px;
+	height: 48px;
+	left: 169px;
+	top: 302px;
+	color: #E4780B;
+	font-size: 20px;
+	font-family: monospace;
+	position: absolute;
+
+}
+.business-content {
+	border: 0px solid black; 
+	width: 344px;
+	height: 94px;
+	position: absolute;
+	font-family: monospace;
+	font-weight: bold;
+	line-height: 2;
+	top: 374px;
+	left: 169px;
+}
+.Services4 {
+	width: 581px;
+	height: 252px;
+	left: 83px;	
+	top: 2191px; 
+	position: absolute;
+}	
+.icon-4 {
+	left: 667px;
+	position: absolute;
+	width: 88px;
+	height: 87px;
+	top: 301px;
+}
+.file {
+	display: block;
+	width: 354px;
+	left: 771px;
+	top: 302px;
+	color: #E4780B;
+	font-size: 20px;
+	font-family: monospace;
+	text-align: center;
+	position: absolute;
+}
+.file-content {
+	border: 0px solid black; 
+	width: 344px;
+	height: 94px;
+	font-family: monospace;
+	line-height: 2;
+	position: absolute;
+	top: 374px;
+	left: 770px;
+	font-weight: bold;
+}
+#see-more {
+	background-color: #E4780B;
+	position: absolute;
+	top: 2814px;
+	width: 184px;
+	height: 40px;
+	left: 628px;
+}

@@ -1,0 +1,45 @@
+img .Banner_01 {
+	width: 1200px;
+	height: 649px;
+	z-index: -1;
+}
+.phone-number {
+	background-color: #E4780B;
+	border: 1px solid #E4780B;	
+	color: white;
+	left: 923px;
+	top: 94px;
+	position: absolute;
+	width: 400px;
+	height: 60px;
+	font-size: 24px;
+	font-family: monospace;
+}
+.call-icon {
+	height: 45px;
+	left: 930px;
+	
+}
+.carousel-typo {
+	top: 100px;
+	left: 312px;
+	position: absolute;
+	width: 625px;
+	height: 218px;
+}
+.carousel-typo-header {
+	top: 326px;
+	left: 0px;
+	position: absolute;
+	color: white;
+	font-size: 32px;
+}
+.carousel-typo-content {
+	top: 465px;
+	left: 0px;
+	color: white;
+	font-size: 24px;
+	position: absolute;
+	font-family: monospace;
+
+}

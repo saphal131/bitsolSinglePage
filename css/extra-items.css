@@ -1,0 +1,74 @@
+.extra-items {
+	width: 1440px;
+	height: 100px;
+	background-color: black; 
+	float: right;
+	position: relative;
+}
+.laptop {
+	width: 50px;
+	height: 34px;
+	left:  122px;
+	top: 33px;
+	position: absolute;
+
+}
+.Reference-library {
+	position: absolute;
+	left: 206px;
+	top: 44px;
+	color: white;
+
+}
+.Globe {
+	position: absolute;
+	width: 37px;
+	height: 37px;
+	left: 440px;
+	top: 32px;
+}
+.Emarket {
+	left: 512px;
+	top: 44px;
+	color: white;
+	position: absolute;
+}
+.msging {
+	position: absolute;
+	width: 44px;
+	height: 37px;
+	left: 677px;
+	top: 37px;
+}
+.Cap-send {
+	position: absolute;
+	left: 760px;
+	top: 44px;
+	color: white;
+}
+.notepad {
+	position: absolute;
+	width: 37px;
+	height: 43px;
+	left: 939px;
+	top: 30px;
+}
+.Geo-reporting {
+	position: absolute;
+	left: 1003px;
+	top: 44px;
+	color: white;
+}
+.settings {
+	position: absolute;
+	width: 44px;
+	height: 44px;
+	left: 1215px;
+	top: 30px;
+}
+.Sop {
+	position: absolute;
+	left: 1283px;
+	top: 44px;
+	color: white;
+}

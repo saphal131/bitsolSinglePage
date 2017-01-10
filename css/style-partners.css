@@ -1,0 +1,51 @@
+.partner {
+	width: 1440px;
+	height: 386px;
+	background-color: #F5F5F5;
+}
+.global-partner {
+	color: #E4780B;
+	text-align: center;
+	font-size: 26px;
+	margin: 25px; 
+	left: 528px;
+	top: 4845px;
+	position: absolute;
+}
+#client-1 {
+	top: 4967px;
+	left: 245px;
+	position: absolute;
+	width: 163px;
+	height: 106px;
+}
+#client-3 {
+	top: 4967px;
+	left: 425px;
+	position: absolute;
+	width: 163px;
+	height: 106px;
+	background-color: white;
+}
+#client-4 {
+	top: 4967px;
+	left: 605px;
+	position: absolute;
+	width: 163px;
+	height: 106px;
+}
+#client-5 {
+	top: 4967px;
+	left: 785px;
+	position: absolute;
+	width: 163px;
+	height: 106px;
+	background-color: white;
+}
+#client-6 {
+	top: 4967px;
+	left: 965px;
+	position: absolute;
+	width: 163px;
+	height: 106px;
+}

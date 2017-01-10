@@ -1,0 +1,150 @@
+.info {
+	width: 1440px;
+	height: 252px;
+	background-color: #0066A9;
+	font-family: monospace;
+}
+#header-2 {
+	top: 5260px;
+	position: absolute;
+	left: 323px;
+	color: white;
+	font-size: 34px;
+
+}
+#header-4 {
+	top: 5327px;
+	left: 378px;
+	position: absolute;
+	line-height: 2;
+	color: white;
+	font-size: 26px;
+}
+li {
+	list-style: none;
+	color: white;
+}
+a:hover {
+	text-decoration: none;
+	color: white
+}
+.details-block {
+	width: 1440px;
+	height: 539px;
+	background-color: #343434; 
+	color: white;
+}
+.navigation {
+	top: 5511px;
+	position: absolute;
+	left: 122px;
+	font-size: 26px;
+}
+.navigation-list {
+	left: 82px;
+	top: 5622px;
+	position: absolute;
+	font-size: 22px;
+}
+.contact-options {
+	left: 333px;
+	top: 5511px;
+	position: absolute;
+	font-size: 26px;
+}
+.contact-option-list {
+	left: 293px; 
+	top: 5622px;
+	position: absolute;
+	font-size: 22px;
+
+}
+.request-info {
+	top: 5511px;
+	position: absolute;
+	font-size: 26px;
+	left: 638px;
+	text-align: center;
+}
+#full-name {
+	left: 634px;
+	top: 5622px;
+	height: 45px;
+	position: absolute;
+	width: 195px;
+	color: black;
+	font-family: monospace;
+	
+}
+#e-mail {
+	left: 833px;
+	top: 5622px;
+	height: 45px;
+	position: absolute;
+	width: 195px;
+	color: black;
+	font-family: monospace;
+}
+#subject {
+	left:634px;
+	top: 5677px;
+	height: 45px;
+	width: 398px;
+	color: black;
+	position: absolute;
+}
+#message {
+	left: 634px;
+	top: 5732px;
+	color: black;
+	position: absolute;
+	width: 398px;
+	height: 144px;
+	resize: none;
+}
+#send {
+	left: 888px;
+	top: 5886px;
+	background-color: #E4780B;
+	color: white;
+	position: absolute;
+	width: 146px;
+	height: 45px;
+}
+.social-media {
+	left: 1179px;
+	top: 5511px;
+	position: absolute;
+	font-size: 26px;
+	height: 20px;
+	width: 200px;
+	display: block;
+}
+.facebook {
+	top: 5560px;
+	left: 1219px;
+	position: absolute;
+	width, height: 39px;
+}
+.instagram {	
+	top: 5560px;
+	left: 1280px;
+	position: absolute;
+	width, height: 39px;
+}
+footer {
+	width: 1440px;
+	height: 76px;
+	background-color: black;
+	color: white;
+}
+.copyright {
+	left: 119px;
+	top: 6011px;
+	position: absolute;
+}
+.other-design {
+	left: 978px;
+	top: 6011px;
+	position: absolute;
+}
